@@ -1,0 +1,28 @@
+p {
+	text-align: center;
+	font-size: 35px;
+
+}
+#myform {
+	width: 400px;
+	height: 400px;
+	background-color: #eee;
+	margin: 0 auto;
+	margin-top: 100px;
+	text-align: center;
+} 
+
+#display {
+	width: 94%;
+	height: 40px;
+	text-align: center;
+	font-size: 26px;
+	margin-top: 7px;
+	border-radius: 4px;
+
+}
+input {
+	width: 23%;
+	height: 17%;
+	font-height: 30px;
+}
